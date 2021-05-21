@@ -88,10 +88,12 @@ export const Item = styled.div`
   position: relative;
   cursor: pointer;
   transition: transform 0.2s;
-
+  border-style: solid;
+  border-color: baldgreen;
   &:hover {
     transform: scale(1.3);
     z-index: 99;
+    border-color: rgba(255, 0, 0, 0.6);
   }
 
   @media (min-width: 1200px) {
