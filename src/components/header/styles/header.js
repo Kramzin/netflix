@@ -128,8 +128,8 @@ export const Picture = styled.button`
 
 export const Dropdown = styled.div`
   display: none;
-  position: absolute;
   background-color: black;
+  position: absolute;
   padding: 10px;
   width: 100px;
   top: 32px;
@@ -230,9 +230,9 @@ export const PlayButton = styled.button`
   max-width: 130px;
   font-weight: bold;
   font-size: 20px;
-  margin-top: 10px;
+  margin-top: 30px;
   cursor: pointer;
-  transition: background-color 0.5s ease;
+  transition: background-color 0.161s ease;
 
   &:hover {
     background-color: #ff1e1e;
