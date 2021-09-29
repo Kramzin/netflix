@@ -1,6 +1,3 @@
-react netflix clone
-deploy - https://netflix-1edd0.web.app/
-
 Main Page
 ![image](https://user-images.githubusercontent.com/32223929/125212795-66b61180-e2b8-11eb-9406-a248d23172e6.png)
 FAQ Accordion
